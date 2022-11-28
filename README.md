@@ -21,15 +21,7 @@
 <ul>
     <li>Criar os CRUDs (Create, Read, Update e Delete) de clientes, produtos  e serviços.</li>
     <li>Armazenar um registro de consumo dos produtos ou serviços que cada cliente adquiriu.</li>
-    <li>Desenvolver as listagens dos:</li>
-    <ol>
-        <li>10 clientes que mais consumiram em quantidade;</li>
-        <li>Clientes ordenados por gênero;</li>
-        <li>Produtos ou Serviços mais consumidos;</li>
-        <li>Produtos ou Serviços mais consumidos por gêneros;</li>
-        <li>10 clientes que menos consumiram produtos ou serviços;</li>
-        <li>5 clientes que mais consumiram em valor.</li>
-    	</ol>
+    <li>Desenvolver as listagens dos 10 clientes que mais consumiram em quantidade, dos Clientes ordenados por gênero, dos produtos ou Serviços mais consumidos no geral e por gênero, dos 10 clientes que menos consumiram produtos ou serviços e dos 5 clientes que mais consumiram em valor.</li>
 </ul> 
 
 
@@ -38,7 +30,7 @@
 
 
 
-<h2 id="#manual"> 📜Manual do Usuário </h2>
+<h2 id="manual"> 📜Manual do Usuário </h2>
 
 Requisitos: ter instalado o Node JS.
 
@@ -58,7 +50,7 @@ node out/app/main.js
 
 
 
-<h2 id="#pastas"> 🗂Configuração das pastas</h2>
+<h2 id="pastas"> 🗂Configuração das pastas</h2>
 
 <ul>
     <li> out: pasta com os códigos convertidos para JS.</li>
@@ -69,7 +61,7 @@ node out/app/main.js
 
 
 
-<h2 id="#tecnologias">🛠Tecnologias Utilizadas</h2>
+<h2 id="tecnologias">🛠Tecnologias Utilizadas</h2>
 
 <ul> 
     <li> TypeScript</li>
@@ -84,7 +76,7 @@ node out/app/main.js
 
 
 
-<h2 id="#equipe">👥 Equipe</h2>
+<h2 id="equipe">👥 Equipe</h2>
 
 |      | Nome                    |
 | ---- | ----------------------- |
