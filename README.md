@@ -3,7 +3,7 @@
     <p> TypescriptProjects-CEF&JSG </p>
     <p>
     <a href="#sobre">Sobre a atividade</a> | 
-    <a href="#manual">Manual de usuário</a> |
+    <a href="#manual">Manual do usuário</a> |
     <a href="#pastas">Configuração das pastas</a> | 
   	<a href="#tecnologias">Tecnologias</a> |
     <a href="#equipe">Equipe</a>
